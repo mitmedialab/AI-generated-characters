@@ -10,6 +10,6 @@ The code is available on google-colab. See: ```AI_Generated_Characters.ipynb```.
 ## Examples of Outputs
 ![Screenshot](cover.gif)
 
-With the pipeline, one can easily create a video of AI-generated characters from Video, Audio, and Text input (text is coming soon).
+With the pipeline, one can easily create a video of AI-generated characters from Video and Audio.
 
 
